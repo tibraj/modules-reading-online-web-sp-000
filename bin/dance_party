@@ -11,4 +11,7 @@ puts "#{mikhail_baryshnikov.name} says: #{mikhail_baryshnikov.take_a_bow}"
 angelina.twirl
 angelina.jump
 mikahil.jump
-mikahil.take_a_bow 
+mikahil.take_a_bow
+
+Dancer.metadata
+Kid.metadata
